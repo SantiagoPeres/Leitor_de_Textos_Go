@@ -1,0 +1,12 @@
+[
+    {
+        "addr": "aprendagolang.com.br",
+        "protocol": "https",
+        "type": "website"
+    },
+    {
+        "addr": "canaistech.com.br",
+        "protocol": "https",
+        "type": "website"
+    }
+]
